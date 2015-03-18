@@ -1,0 +1,624 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf350
+{\fonttbl\f0\fnil\fcharset0 Ubuntu;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue11;\red43\green82\blue255;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww10380\viewh7200\viewkind0
+\deftab720
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 DMV check & background check consent
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Consent to Request Driving Record
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I understand that Viva, Inc. (\'91Company\'92) will use\'a0American Driving Records, Inc., (\'91ADR\'92) to obtain a motor vehicle record as part of the application process to be a driver on the Viva Platform (a \'91Driver\'92). I also understand that if accepted as a Driver, to the extent permitted by law,\'a0Company\'a0may obtain further Reports from ADR so as to update, renew or extend my status as a Driver. I hereby give permission to Viva to obtain my state driving record (also known as my motor vehicle record or\'a0MVR) in accordance with the Federal Driver\'92s Privacy Protection Act (\'91DPPA\'92) and applicable state law. I acknowledge and understand that my driving record is a consumer report that contains public record information. I authorize, without reservation any party or agency contacted by\'a0Company\'a0or ADR to furnish\'a0Company\'a0a copy of my state driving record. This authorization shall remain on file by\'a0Company\'a0for the duration of my time as a Driver, and will serve as ongoing authorization for\'a0Company\'a0to procure my state driving record at any time while I am a Driver.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Consent to Request Consumer Report or Investigative Consumer Report Information\'a0
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I understand that Viva, Inc. (\'91Company\'92) will use\'a0Sterling InfoSystems Inc.,
+\i \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 249 W 17th St.\'a06th Floor,\'a0New York,\'a0NY\'a010011
+\i0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 to obtain a consumer report or investigative consumer report as part of the application process to be a driver on the Viva Platform (a \'91Driver\'92). I also understand that if accepted as a Driver, to the extent permitted by law,\'a0Company\'a0may obtain further Reports from\'a0Sterling\'a0so as to update, renew or extend my status as a Driver.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I understand\'a0
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Sterling InfoSystems Inc.\'92s
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 (\'93Sterling\'94) investigation may include obtaining information regarding my criminal record, subject to any limitations imposed by applicable federal and state law. I understand such information may be obtained through direct or indirect contact with public agencies or other persons who may have such knowledge.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The nature and scope of the investigation sought will include a Criminal Background check and\'a0\cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 SSN\'a0Trace\cb1 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 .
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I acknowledge receipt of the attached summary of my rights under the Fair Credit Reporting Act and, as required by law, any related state summary of rights (collectively \'93Summaries of Rights\'94).
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 This consent will not affect my ability to question or dispute the accuracy of any information contained in a Report. I understand if\'a0Company\'a0makes a conditional decision to disqualify me based all or in part on my Report, I will be provided with a copy of the Report and another copy of the Summaries of Rights, and if I disagree with the accuracy of the purported disqualifying information in the Report, I must notify\'a0Company\'a0within five business days of my receipt of the Report that I am challenging the accuracy of such information with\'a0Sterling.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I hereby consent to this investigation and authorize\'a0Company\'a0to procure a Report on my background.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 In order to verify my identity for the purposes of Report preparation, I am voluntarily releasing my date of birth, social security number and the other information and fully understand that all decisions are based on legitimate non-discriminatory reasons.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The name, address and telephone number of the nearest unit of the consumer reporting agency designated to handle inquiries regarding the investigative consumer report is:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Sterling Infosystems, Inc.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 249 W 17th St.\'a06th Floor,\'a0New York,\'a0NY\'a010011
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+{\field{\*\fldinst{HYPERLINK "about:blank"}}{\fldrslt 
+\f0\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 877-424-2457}}\
+\pard\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 5750 West Oaks Boulevard\'a0Ste. 100,\'a0Rocklin,\'a0CA\'a095765
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+{\field{\*\fldinst{HYPERLINK "http://tel:1800943258/"}}{\fldrslt 
+\f0\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 800-943-258}}\
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 California, Maine, Massachusetts, Minnesota, New Jersey & Oklahoma Applicants Only:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0I have the right to request a copy of any Report obtained by\'a0Company from\'a0Sterling\'a0by checking the box. (Check only if you wish to receive a copy)
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 New York Applicants Only
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 I also acknowledge that I have received the attached copy of Article 23A of New York\'92s Correction Law. I further understand that I may request a copy of any investigative consumer report by contacting\'a0Sterling. I further understand that I will be advised if any further checks are requested and provided the name and address of the consumer-reporting agency.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 California Applicants and Residents
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 If I am applying in California or reside in California, I understand I have the right to visually inspect the files concerning me maintained by an investigative consumer-reporting agency during normal business hours and upon reasonable notice. The inspection can be done in person, and, if I appear in person and furnish proper identification; I am entitled to a copy of the file for a fee not to exceed the actual costs of duplication. I am entitled to be accompanied by one person of my choosing, who shall furnish reasonable identification. The inspection can also be done via certified mail if I make a written request, with proper identification, for copies to be sent to a specified addressee. I can also request a summary of the information to be provided by telephone if I make a written request, with proper identification for telephone disclosure, and the toll charge, if any, for the telephone call is prepaid by or directly charged to me. I further understand that the investigative consumer reporting agency shall provide trained personnel to explain to me any of the information furnished to me; I shall receive from the investigative consumer-reporting agency a written explanation of any coded information contained in files maintained on me. \'93Proper identification\'94 as used in this paragraph means information generally deemed sufficient to identify a person, including documents such as a valid driver\'92s license, social security account number, military identification card and credit cards. I understand that I can access the following website\'a0{\field{\*\fldinst{HYPERLINK "http://sterlinginfosystems.com/"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 sterlinginfosystems.com}}\'a0privacy to view\'a0Sterling\'92S privacy practices, including information with respect to\'a0Sterling\'92S preparation and processing of investigative consumer reports and guidance as to whether my personal information will be sent outside the United States or its territories.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 A Summary of Your Rights Under the Fair Credit Reporting Act
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The federal Fair Credit Reporting Act (FCRA) promotes the accuracy, fairness, and privacy of information in the files of consumer reporting agencies. There are many types of consumer reporting agencies, including credit bureaus and specialty agencies (such as agencies that sell information about check writing histories, medical records, and rental history records). Here is a summary of your major rights under the FCRA.\'a0
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 For more information, including information about additional rights, go to\'a0{\field{\*\fldinst{HYPERLINK "http://www.consumerfinance.gov/learnmore"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 www.consumerfinance.gov/learnmore}}\'a0or write to:
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720\sl320\qj
+
+\f0\i\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Consumer Financial Protection Bureau
+\f1\i0\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\i\b\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1700 G Street\'a0NW,\'a0Washington,DC\'a020552
+\f1\i0\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320\qj
+\ls1\ilvl0
+\f0\fs32 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You must be told if information in your file has been used against you. Anyone who uses a credit report or another type of consumer report to deny your application for credit, insurance, or employment \'96 or to take another adverse action against you \'96 must tell you, and must give you the name, address, and phone number of the agency that provided the information.\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You have the right to know what is in your file. You may request and obtain all the information about you in the files of a consumer-reporting agency (your \'93file disclosure\'94). You will be required to provide proper identification, which may include your Social Security number. In many cases, the disclosure will be free. You are entitled to a free file disclosure if:\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl320\qj
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 a person has taken adverse action against you because of information in your credit report;\uc0\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 you are the victim of identify theft and place a fraud alert in your file;\uc0\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 your file contains inaccurate information as a result of fraud;\uc0\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 you are on public assistance;\uc0\u8232 \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 you are unemployed but expect to apply for employment within 60 days.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320\qj
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In addition, all consumers are entitled to one free disclosure every 12 months upon request from each nationwide credit bureau and from nationwide specialty consumer reporting agencies. See\'a0{\field{\*\fldinst{HYPERLINK "http://www.consumerfinance.gov/learnmore"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 www.consumerfinance.gov/learnmore}}for additional information.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl320\qj
+\ls1\ilvl0
+\b \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You have the right to ask for a credit score.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0Credit scores are numerical summaries of your credit-worthiness based on information from credit bureaus. You may request a credit score from consumer reporting agencies that create scores or distribute scores used in residential real property loans, but you will have to pay for it. In some mortgage transactions, you will receive credit score information for free from the mortgage lender.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You have the right to dispute incomplete or inaccurate information.\'a0
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 If you identify information in your file that is incomplete or inaccurate, and report it to the consumer-reporting agency, the agency must investigate unless your dispute is frivolous. See\'a0{\field{\*\fldinst{HYPERLINK "http://www.consumerfinance.gov/learnmore"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 www.consumerfinance.gov/learnmore}}for an explanation of dispute procedures.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Consumer reporting agencies must correct or delete inaccurate, incomplete, or unverifiable information.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0Inaccurate, incomplete or unverifiable information must be removed or corrected, usually within 30 days. However, a consumer reporting agency may continue to report information it has verified as accurate.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Consumer reporting agencies may not report outdated negative information.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0In most cases, a consumer-reporting agency may not report negative information that is more than seven years old, or bankruptcies that are more than 10 years old.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Access to your file is limited.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0A consumer-reporting agency may provide information about you only to people with a valid need \'96 usually to consider an application with a creditor, insurer, employer, landlord, or other business. The FCRA specifies those with a valid need for access.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You must give your consent for reports to be provided to employers.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 A consumer reporting agency may not give out information about you to your employer, or a potential employer, without your written consent given to the employer. Written consent generally is not required in the trucking industry. For more information, go to\'a0{\field{\*\fldinst{HYPERLINK "http://www.consumerfinance.gov/learnmore"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 www.consumerfinance.gov/learnmore}}\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You may limit \'93prescreened\'94 offers of credit and insurance you get based on information in your credit report.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0Unsolicited \'93prescreened\'94 offers for credit and insurance must include a toll-free phone number you can call if you choose to remove your name and address from the lists these offers are based on. You may opt-out with the nationwide credit bureaus at\'a0{\field{\*\fldinst{HYPERLINK "about:blank"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 1-888-567-8688}}.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You may seek damages from violators.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0If a consumer reporting agency, or, in some cases, a user of consumer reports or a furnisher of information to a consumer reporting agency violates the FCRA, you may be able to sue in state or federal court.\uc0\u8232 \
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Identity theft victims and active duty military personnel have additional rights.
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0For more information, visit\'a0{\field{\*\fldinst{HYPERLINK "http://www.consumerfinance.gov/learnmore"}}{\fldrslt \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 www.consumerfinance.gov/learnmore}}.\uc0\u8232 \
+\pard\pardeftab720\sl320\qj
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 States may enforce the FCRA, and many states have their own consumer reporting laws. In some cases, you may have more rights under state law. For more information, contact your state or local consumer protection agency or your state Attorney General. For information about your federal rights, contact:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Type of business
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Contact
+\f1\b0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 a. Banks, savings associations, and credit unions with total assets of over $10 billion and their affiliates.
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 a.\'a0Consumer Financial Protection Bureau
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1700 G Street NW,\'a0Washington,DC\'a020552
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 b. Such affiliates that are not banks, savings associations, or credit unions also should list, in addition to the\'a0CFPB:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 b.\'a0Federal Trade Commission: Consumer Response Center \'96 FCRA
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Washington,\'a0DC\'a020580
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+{\field{\*\fldinst{HYPERLINK "about:blank"}}{\fldrslt 
+\f0\fs32 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 877-382-4357}}\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\itap2\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth1860\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth3700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap2\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \nestcell 
+\pard\intbl\itap2\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \nestcell \nestrow
+
+\itap2\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth1860\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalc \clshdrawnil \clwWidth3700\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap2\pardeftab720\sl320
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 2. To the extent not included in item 1 above:
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \nestcell 
+\pard\intbl\itap2\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \nestcell \lastrow\nestrow
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 a. National banks, federal savings associations, and federal branches and federal agencies of foreign banks
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 a.\'a0Office of the Comptroller of the Currency Customer Assistance Group
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1301 McKinney Street\'a0Suite 3450,Houston,\'a0TX\'a077010-9050
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 b. State member banks, branches and agencies of foreign banks (other than federal branches, federal agencies, and Insured State Branches of Foreign Banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 	
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+
+\f0\fs32 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 b.\'a0Federal Reserve Consumer Help Center
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 P.O. Box 1200\'a0Minneapolis,MN\'a055480
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 c. Nonmember Insured Banks, Insured State Branches of Foreign Banks, and insured state savings associations
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 c.\'a0FDICConsumer Response Center
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1100 Walnut Street\'a0Box #11,\'a0Kansas City,\'a0MO\'a064106
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 d. Federal Credit Unions
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 d.\'a0National Credit Union Administration Office of Consumer Protection (OCP), Division of Consumer Compliance and Outreach (DCCO)
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1775 Duke Street,\'a0Alexandria,VA\'a022314
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 3. Air carriers
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Asst. General Counsel for Aviation Enforcement & Proceedings Aviation Consumer Protection Division Department of Transportation
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1200 New Jersey Avenue\'a0SE,\'a0Washington,\'a0DC\'a020590
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 4. Creditors Subject to Surface Transportation Board
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Office of Proceedings, Surface Transportation Board, Department of Transportation
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 395 E Street\'a0SW,\'a0Washington,\'a0DC\'a020423
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 5. Creditors Subject to Packers and Stockyards Act, 1921
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Nearest Packers and Stockyards Administration area supervisor
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 6. Small Business Investment Companies
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Associate Deputy Administrator for Capital Access, United States Small Business Administration
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 409 Third Street SW\'a08th Floor,Washington,\'a0DC\'a020416
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 7. Brokers and Dealers
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Securities and Exchange Commission
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 100 F St\'a0NE,\'a0Washington,\'a0DC\'a020549
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 8. Federal Land Banks, Federal Land Bank Associations, Federal Intermediate Credit Banks, and Production Credit Associations
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Farm Credit Administration,
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\i\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1501 Farm Credit Drive,\'a0McLean,VA\'a022102-5090
+\f1\i0\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth5560\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf2 \clbrdrl\brdrs\brdrw20\brdrcf2 \clbrdrb\brdrs\brdrw20\brdrcf2 \clbrdrr\brdrs\brdrw20\brdrcf2 \clpadl160 \clpadr160 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl320\qj
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 9. Retailers, Finance Companies, and All Other Creditors Not Listed Above
+\f1\fs24 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \lastrow\row
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+}
