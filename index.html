@@ -14,9 +14,11 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    
 
     <!--jquery-->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
     <!--customized css-->
     <link rel="stylesheet" href="css/viva03.css">
@@ -210,13 +212,13 @@
                         <h3>Viva around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/vivacarpool" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                                <a href="https://twitter.com/VivaCarpool" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                                <a href="https://instagram.com/vivaCarpool" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -245,9 +247,9 @@
                                 </div>
 
                                 <div class="modal-footer">
-                                    <button class="btn btn-danger" data-dismiss="modal"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Discard</button>
+                                    <button class="btn btn-danger" data-dismiss="modal"><span class="fa fa-times" aria-hidden="true"></span> Discard</button>
 
-                                    <button class="btn btn-success" data-dismiss="modal"><span class="glyphicon glyphicon-send" aria-hidden="true"></span> Email this</button>
+                                    <button class="btn btn-success" data-dismiss="modal"><span class="fa fa-paper-plane" aria-hidden="true"></span> Email this</button>
                                 </div>
                             </div>
                         </div>
@@ -269,9 +271,9 @@
                                 </div>
 
                                 <div class="modal-footer">
-                                    <button class="btn btn-danger" data-dismiss="modal"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Discard</button>
+                                    <button class="btn btn-danger" data-dismiss="modal"><span class="fa fa-times" aria-hidden="true"></span> Discard</button>
 
-                                    <button class="btn btn-success" data-dismiss="modal"><span class="glyphicon glyphicon-send" aria-hidden="true"></span> Email this</button>
+                                    <button class="btn btn-success" data-dismiss="modal"><span class="fa fa-paper-plane" aria-hidden="true"></span> Email this</button>
                                 </div>
                             </div>
                         </div>
@@ -292,8 +294,8 @@
     </footer>
 
     <script type="text/javascript">
+    $(document).ready(function() {
         $(".container-feature").css("height", $(window).height());
-
 
         //initializei skrollr
         var s = skrollr.init();
@@ -323,6 +325,8 @@
             }
            
         },false);
+    });
+
     </script>
 </body>
 
