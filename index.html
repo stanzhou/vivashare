@@ -43,7 +43,7 @@
 <body data-spy="scroll" data-target=".navbar-collapse">
 
     <!--navbar and navbar-default/inverse are bootstrap elements-->
-    <div id="topbar" class="navbar navbar-default navbar-fixed-top whiteText">
+    <div id="topbar" class="navbar navbar-default navbar-fixed-top">
         <div class="navbar-header">
             <!--navbar button-->
             <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -66,7 +66,7 @@
                 <li><a onclick="$('html, body').animate({scrollTop: $('#about').offset().top}, 1500);" a href="#about">ABOUT</a></li>
                 <li><a onclick="$('html, body').animate({scrollTop: $('#how').offset().top}, 1500);" href="#how">HOW IT WORKS</a></li>
                 <li><a onclick="$('html, body').animate({scrollTop: $('#contact').offset().top}, 1500);" a href="#contact">CONTACT</a></li>
-                <li><a href="#"><i class="fa fa-download"></i> DOWNLOAD </a></li>
+                <li style="margin-right:15px;"><a href="#"><i class="fa fa-download"></i> DOWNLOAD </a></li>
             </ul>
         </div>
 
@@ -316,7 +316,7 @@
             }
 
             if(cursorHeight > 10){
-                $('.navbar').css("background-color","#122738");
+                $('.navbar').css("background-color","#233140");
                 //console.log("navbar changed");
                 
             }
