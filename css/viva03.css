@@ -140,11 +140,7 @@
             vertical-align: middle;
         }
         
-        #feature-text{
-            padding-top: 100px;
-            padding: 0 auto;
-            margin: 0 auto;
-        }
+        
 
         /*foot CSS*/
         #foot{
@@ -174,6 +170,17 @@
             margin: 0 auto;
         }
 
+        /*slide in img while scrolling*/
+        #featureImg {
+            visibility: hidden;
+        }
+
+        #feature-text{
+            padding-top: 100px;
+            margin: 0 auto;
+        }
+
+        /*mobile phone*/
         @media (max-width: 768px) {
 
             .container-fluid {
@@ -195,12 +202,26 @@
               margin-right: 0;
               margin-bottom:0;
             }
+
+            #featureImg{
+                margin-top: 15%;
+            }
+
+            #feature-text{
+                padding-top: 25px;
+                padding-bottom: 25px;
+            }
+
+            ul{
+                -webkit-padding-start: 0px;
+            }
+
+            .howtext{
+                font-size: 1.5em;
+            }
         }
 
-        /*slide in img while scrolling*/
-        #featureImg {
-            visibility: hidden;
-        }
+        
 
         /*slide in img while scrolling*/
         .howimg {

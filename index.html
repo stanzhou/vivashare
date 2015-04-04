@@ -138,19 +138,19 @@
                 <li class="col-md-4 col-lg-4">
                     <img class="howimg hcenter img-circle img-responsive" src="css/src_viva/getRide.png" alt="create" style="width: 160px; height: 160px;">
                     <h2>Create a Ride</h2>
-                    <p>Create event based on your interests, share your journey with others for the same route</p>
+                    <p class="howtext">Create event based on your interests, share your journey with others for the same route</p>
                 </li>
 
                 <li class="col-md-4 col-lg-4">
                     <img class="howimg hcenter img-circle img-responsive" src="css/src_viva/join.png" alt="join" style="width: 160px; height: 160px;">
                     <h2>Join a Ride</h2>
-                    <p>With tap and offer, join a ride with others around with similar interets and same destinations</p>
+                    <p class="howtext">With tap and offer, join a ride with others around with similar interets and same destinations</p>
                 </li>
 
                 <li class="col-md-4 col-lg-4">
                     <img class="howimg hcenter img-circle img-responsive" src="css/src_viva/driver.png" alt="driver" style="width: 160px; height: 160px;">
                     <h2>Become Driver</h2>
-                    <p>Participate as driver, share your vehicle to pay your insurance and gas while making friends with people around you.
+                    <p class="howtext">Participate as driver, share your vehicle to pay your insurance and gas while making friends with people around you.
                     </p>
                 </li>
             </ul>
@@ -392,8 +392,20 @@
     $(document).ready(function() {
         $(".container-feature").css("height", $(window).height());
 
-        //initializei skrollr
-        var s = skrollr.init();
+        $(function () {
+          // initialize skrollr if the window width is large enough
+          if ($(window).width() > 767) {
+            skrollr.init();
+          }
+
+          // disable skrollr if the window is resized below 768px wide
+          $(window).on('resize', function () {
+            if ($(window).width() <= 767) {
+              skrollr.init().destroy(); // skrollr.init() returns the singleton created above
+            }
+          });
+        });
+
 
         //navbar transparent to solid color while scrolling
         window.addEventListener("scroll", function(){
